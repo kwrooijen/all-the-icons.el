@@ -1,6 +1,6 @@
 (defvar all-the-icons-data/file-icon-alist
   '(
-   
+
     ( "R" . "\xe905" )
     ( "abap" . "\xe92b" )
     ( "access" . "\xe9ea" )
@@ -262,7 +262,6 @@
     ( "sbt" . "\xe9d2" )
     ( "sc" . "\xe9a2" )
     ( "scheme" . "\x03bb" )
-    ( "scheme" . "\x3bb" )
     ( "scilab" . "\xe9a9" )
     ( "scrutinizer" . "\xe9d4" )
     ( "self" . "\xe9a8" )
